@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-intro-component-with-sign-up-form-using-css-and-javascript-6DDuh-_mM4)
+- Live Site URL: [Live Site](https://asimsaeed353.github.io/intro-component-with-signup-form-master/)
 
 ## My process
 
